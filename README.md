@@ -1,5 +1,6 @@
 # React Native How To
-RN(Expo) HowTo & [Flutter HowTo](https://github.com/doyle-flutter/flutterHowTo)
+
+- [Flutter HowTo](https://github.com/doyle-flutter/flutterHowTo)
 
 # Example
 01Carousel Preview... / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/01Carousel/App.js)
