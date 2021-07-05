@@ -64,16 +64,18 @@ function Content(){
 
   const _rightFunc = () => {
     if(cIndex >= imgs.length-1) return;
+    bSetState(false);
     cIndex+=1;
-    cSetState(cIndex);
     fCt.current.scrollToIndex({index:cIndex});
+    setTimeout(_ => bSetState(true), 400);
   }
 
   const _leftFunc = () => {
     if(cIndex <= 0) return;
+    bSetState(false);
     cIndex-=1;
-    cSetState(cIndex);
-    fCt.current.scrollToIndex({index:cIndex});
+    fCt.current.scrollToIndex({index:cIndex})
+    setTimeout(_ => bSetState(true), 400);
   }
   
   const _onScroll = e => cSetState(Math.min(Math.max(Math.floor(e.nativeEvent.contentOffset.x / viewWidth + 0.5), 0), imgs.length));
@@ -102,20 +104,22 @@ function Content(){
       />
       {!btnCheck 
         ? (<View></View>)
-        : (
-          <>
-            <View style={{position: 'absolute', top: viewHeight/2, right: 10, backgroundColor:'red', transform: [{translateY:-50}], padding:20}}>
+        : (<>
+            {cIndex === 0 
+            ? (<View></View>)
+            : (<View style={{position: 'absolute', top: viewHeight/2, left: 10, backgroundColor:'red', transform: [{translateY:-50}], padding:20}}>
+                <TouchableOpacity onPress={_leftFunc}>
+                  <Text style={{color: 'white', fontWeight: 'bold'}}>{"Left"}</Text>
+                </TouchableOpacity>
+              </View>)}
+            {cIndex === imgs.length-1
+            ? (<View></View>)
+            : (<View style={{position: 'absolute', top: viewHeight/2, right: 10, backgroundColor:'red', transform: [{translateY:-50}], padding:20}}>
               <TouchableOpacity onPress={_rightFunc}>
                 <Text style={{color: 'white', fontWeight: 'bold'}}>{"Right"}</Text>
               </TouchableOpacity>
-            </View>
-            <View style={{position: 'absolute', top: viewHeight/2, left: 10, backgroundColor:'red', transform: [{translateY:-50}], padding:20}}>
-              <TouchableOpacity onPress={_leftFunc}>
-                <Text style={{color: 'white', fontWeight: 'bold'}}>{"Left"}</Text>
-              </TouchableOpacity>
-            </View>
-          </>
-        )
+            </View>)}
+          </>)
       }
     </View>
   );
