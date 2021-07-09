@@ -24,7 +24,10 @@
 
 05 Side Navigation : [Preview](https://youtu.be/fdzVvFc408Q) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/05SideNavigation/App.js)
 
-06 Modal&Bottom :  
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125048875-53018400-e0db-11eb-8f98-23d413cb2d41.png" />
+
+06 Modal&Bottom : [Preview](https://youtu.be/hF5bvxRmRM0) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/06Modal/App.js)
+
 07 Modal Image :  
 08 Tabs & Pagination :   
 09 IconBar Vertical & Horizontal :   
