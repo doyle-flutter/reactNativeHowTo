@@ -28,8 +28,8 @@
 
 06 Modal&Bottom : [Preview](https://youtu.be/hF5bvxRmRM0) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/06Modal/App.js)
 
-07 Modal Image :  
-08 Tabs & Pagination :   
+07 Modal Image :  -- 
+08 Tabs & Pagination : 
 09 IconBar Vertical & Horizontal :   
 10 ImageGrid :   
 11 Portfolio Layout - App/Tablet & WEB :  
@@ -51,3 +51,9 @@
 27 SnackBar & ToastBar :  
 28 Tree View :  
 29 Typing Effect :  
+
+etc
+
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125163357-c1bc0b80-e1c7-11eb-8f34-3ad32a5ffa3e.png" />
+
+ - BottomNavigation & PageView : [Preview](https://youtu.be/ujDzIlhpcFk) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/etc1BottomNavigationPageView/App.js)
