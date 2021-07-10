@@ -28,7 +28,10 @@
 
 06 Modal&Bottom : [Preview](https://youtu.be/hF5bvxRmRM0) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/06Modal/App.js)
 
-07 Modal Image :  
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125164606-1d899300-e1ce-11eb-807a-d1a6410c3cc6.png" />
+
+07 Modal Image : [Preview](https://youtu.be/zsOJeCEoCbM) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/07ModalImage/App.js)
+
 08 Tabs & Pagination :  
 09 IconBar Vertical & Horizontal :   
 10 ImageGrid :   
