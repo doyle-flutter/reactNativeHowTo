@@ -28,8 +28,8 @@
 
 06 Modal&Bottom : [Preview](https://youtu.be/hF5bvxRmRM0) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/06Modal/App.js)
 
-07 Modal Image :  -- 
-08 Tabs & Pagination : 
+07 Modal Image :  
+08 Tabs & Pagination :  
 09 IconBar Vertical & Horizontal :   
 10 ImageGrid :   
 11 Portfolio Layout - App/Tablet & WEB :  
