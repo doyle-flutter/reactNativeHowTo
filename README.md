@@ -32,7 +32,10 @@
 
 07 Modal Image : [Preview](https://youtu.be/zsOJeCEoCbM) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/07ModalImage/App.js)
 
-08 Tabs & Pagination :  
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125190008-fc7c7d00-e275-11eb-8f15-6d2042871aab.png" />
+
+08 Tabs & Pagination : [Preview](https://youtu.be/bIA_iB1mGeM) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/08TabsPagination/App.js)
+
 09 IconBar Vertical & Horizontal :   
 10 ImageGrid :   
 11 Portfolio Layout - App/Tablet & WEB :  
