@@ -36,7 +36,10 @@
 
 08 Tabs & Pagination : [Preview](https://youtu.be/bIA_iB1mGeM) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/08TabsPagination/App.js)
 
-09 IconBar Vertical & Horizontal :   
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125318996-56b03780-e375-11eb-908c-60bbd0aa273a.png" />
+
+09 IconBar Vertical & Horizontal : [Preview](https://youtu.be/et7UCUnCnqc) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/09IconBar/App.js)
+
 10 ImageGrid :   
 11 Portfolio Layout - App/Tablet & WEB :  
 12 ReadMore And ReadLess :   
