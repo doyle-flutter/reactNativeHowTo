@@ -52,8 +52,10 @@
 
 12 ReadMore And ReadLess : [Preview](https://youtu.be/s6JHIwqszHg) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/12ReadMoreReadLess/App.js)
 
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125560235-76a06885-7495-4c7f-83bc-fd19414e3939.png" />
 
-13 Notification Icon Button :   
+13 Notification Icon Button : [Preview](https://youtu.be/igRB0paqspA) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/13NotificationIcon/App.js)
+
 14 ScrollBackToTopButton(FAB) :   
 15 Checkout(pay) form :   
 16 Contact Form :   
