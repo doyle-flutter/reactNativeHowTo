@@ -48,7 +48,11 @@
 
 11 Portfolio Layout : [Preview](https://youtu.be/98B8vDjk24Q) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/11ProtFolio/App.js)
 
-12 ReadMore And ReadLess :   
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125559690-73782cde-e106-455b-bc2c-aebb724a4b07.png" />
+
+12 ReadMore And ReadLess : [Preview](https://youtu.be/s6JHIwqszHg) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/12ReadMoreReadLess/App.js)
+
+
 13 Notification Icon Button :   
 14 ScrollBackToTopButton(FAB) :   
 15 Checkout(pay) form :   
