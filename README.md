@@ -68,7 +68,10 @@
 
 16 Contact Form : [Preview](https://youtu.be/4lvNvsQKNvI) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/16ContactForm/App.js)
 
-17 Animation Form :   
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125901365-346802f7-311e-46e4-ba26-43c2d71cbf1a.png" />
+
+17 Animation Form : [Preview](https://youtu.be/okaSUB1CVIA) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/17AnimationForm/App.js)
+
 18 CheckBox :   
 19 FilterForm :   
 20 Table :   
