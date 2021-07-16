@@ -72,7 +72,10 @@
 
 17 Animation Form : [Preview](https://youtu.be/okaSUB1CVIA) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/17AnimationForm/App.js)
 
-18 CheckBox :   
+<img width="50%" src="https://user-images.githubusercontent.com/56661529/125911021-e6b62d2c-e5cd-447a-bb53-56b9a8cdcaca.png" />
+
+18 CheckBox Android & IOS : [Preview](https://youtu.be/qhDSvrfqHyI) / [Code](https://github.com/doyle-flutter/reactNativeHowTo/blob/main/18CheckBoxAndroidIOS/App.js)
+
 19 FilterForm :   
 20 Table :   
 21 VideoPlayer :   
